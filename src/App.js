@@ -94,42 +94,6 @@ function App() {
       imageUrl: "/images/vr-business-2.jpg",
       category: "Business"
     },
-    {
-      title: "Virtual Trade Shows",
-      content: "Experience the future of business networking with virtual trade shows and exhibitions.",
-      imageUrl: "/images/vr-business-3.jpg",
-      category: "Business"
-    },
-    {
-      title: "VR Real Estate Tours",
-      content: "Showcase properties with immersive virtual tours that bring spaces to life for potential buyers.",
-      imageUrl: "/images/vr-business-4.jpg",
-      category: "Business"
-    },
-    {
-      title: "Corporate Training in VR",
-      content: "Enhance employee training with immersive virtual reality programs and simulations.",
-      imageUrl: "/images/vr-business-5.jpg",
-      category: "Business"
-    },
-    {
-      title: "Virtual Team Building",
-      content: "Build stronger teams with engaging virtual reality team building exercises and activities.",
-      imageUrl: "/images/vr-business-6.jpg",
-      category: "Business"
-    },
-    {
-      title: "VR Marketing Experiences",
-      content: "Create memorable brand experiences with interactive virtual reality marketing campaigns.",
-      imageUrl: "/images/vr-business-7.jpg",
-      category: "Business"
-    },
-    {
-      title: "Virtual Conference Rooms",
-      content: "Host professional meetings in customizable virtual conference rooms with advanced collaboration tools.",
-      imageUrl: "/images/vr-business-8.jpg",
-      category: "Business"
-    }
   ]);
 
   const [selectedCategory, setSelectedCategory] = useState('All');

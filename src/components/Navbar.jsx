@@ -5,7 +5,7 @@ function Navbar({ categories, selectedCategory, onCategoryChange }) {
   return (
     <nav className="navbar">
       <div className="navbar-content">
-        <h1 className="navbar-title">VR World</h1>
+        <h1 className="navbar-title">Reality Blog</h1>
         <div className="navbar-categories">
           {categories.map(category => (
             <button
